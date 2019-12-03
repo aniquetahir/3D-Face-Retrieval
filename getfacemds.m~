@@ -1,0 +1,6 @@
+function [X_smacof] = getfacemds(filename)
+% load face data
+load(filenam, 'human_face_4k');
+
+
+
